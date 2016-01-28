@@ -5,10 +5,11 @@
 	background-color: red;
 }
 div {
-	height: 55%;
-	width: 65%;
+	height: 45%;
+	width: 25%;
 	font-size: 140%;
 	margin-top: 5%;
+	display: inline-block;
 }
 .pdl5 {
 	padding-left: 2%;
