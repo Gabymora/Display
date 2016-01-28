@@ -9,14 +9,17 @@ div {
 	width: 25%;
 	font-size: 140%;
 	margin-top: 5%;
-	display: inline-block;
+	display: inline;
 }
 .pdl5 {
-	padding-left: 2%;
+	padding-left: .5%;
 }
 .pdt5 {
 	padding-top: .5%;
 }
 .may {
 	text-transform: uppercase;
+}
+p {
+	display: inline;
 }
